@@ -116,7 +116,7 @@ If you want to add a new Entity :
       -Add the controller in the urlManager component.
       -Add your personnal verification rules.
       
-The REST API deals with the following URL (for users dans tasks both) :
+The REST API deals with the following URL (for users and tasks both) :
 
     GET /users: list all users page by page;
     HEAD /users: show the overview information of user listing;
